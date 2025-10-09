@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: XLibre packaging discussions
+    url: https://github.com/X11Libre/packaging/discussions
+    about: Please ask and answer questions here.
+  - name: Mailing List
+    url: https://www.freelists.org/list/xlibre
+    about: You can join the discussions on our mailing list.
