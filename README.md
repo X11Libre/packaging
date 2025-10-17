@@ -11,4 +11,4 @@ At [X11Libre/packaging · Discussions · GitHub](https://github.com/X11Libre/pac
 
 ## For Packagers
 
-There soon will be a discussion section for all topics related to XLibre packaging for packagers. A wiki is also being set up at [Home · X11Libre/packaging Wiki](https://github.com/X11Libre/packaging/wiki) with additional materials on these topics.
+We welcome you at the [Maintainers Kitchen · Discussions · GitHub](https://github.com/X11Libre/packaging/discussions/categories/maintainers-kitchen). That's the place where maintainers can discuss everything related to packaging XLibre. A wiki is also being set up at [Home · X11Libre/packaging Wiki](https://github.com/X11Libre/packaging/wiki) with additional materials on these topics.
